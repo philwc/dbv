@@ -6,3 +6,6 @@ Database version control, made easy!
 Check out the **[project website](http://dbv.vizuina.com)** for more details, features and documentation.
 
 [![dbv.php](http://dbv.vizuina.com/img/screenshot-main.png)](http://dbv.vizuina.com)
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/philwc/dbv/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
